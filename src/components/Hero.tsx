@@ -34,9 +34,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
         >
           <a
-            href="https://wa.me/5511999999999"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="#contact"
             className="inline-block px-10 py-4 bg-dark text-white uppercase tracking-widest text-sm hover:bg-rose-gold transition-colors duration-300"
           >
             Agendar Agora
